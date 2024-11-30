@@ -50,7 +50,7 @@ You need JDK 21 and good Internet conditions
 
 Clone this repo, run `./gradlew applyPatches`, then run `./gradlew createMojmapLeavesclipJar` in your terminal.  
 
-You can find the jars in the `build/libs` directory.
+You can find the jar in the `build/libs` directory.
 
 ## Pull Requests
 
