@@ -49,7 +49,7 @@ dependencies {
 
 首先克隆此储存库，然后在你的终端里依次执行 `./gradlew applyPatches` 和 `./gradlew createMojmapLeavesclipJar`
 
-最后 你可以在 `build/libs` 文件夹里找到对应的jar文件
+最后 你可以在 `build/libs` 文件夹里找到对应的 jar 文件
 
 ## 对于想要出一份力的开发者
 
