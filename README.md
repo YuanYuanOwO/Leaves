@@ -34,7 +34,7 @@ dependencies {
 }
  ```
 
-In order to use Leaves as a dependency you must [build it yourself](#building).
+In order to use Leave as a dependency you must [build it yourself](#building).
 Each time you want to update your dependency, you must re-build Leaves.
 
 Leaves-Server:
